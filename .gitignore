@@ -6,6 +6,15 @@
 *.bak
 *.bck
 *.kicad_pcb-bak
+
+*.png
+*cache
+_autosave*
+amoeba/amoeba.zip
+amoeba-stabilizer-2/amoeba-stabilizer-2.zip
+amoeba-spc/amoeba-spc.zip
+amoeba-tp/amoeba-tp.zip
+mouse-buttons/mouse-buttons.zip
 *.sch-bak
 *~
 _autosave-*
@@ -31,7 +40,8 @@ fp-info-cache
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
